@@ -1,20 +1,29 @@
 {
-  "name": "strapi-provider-upload-nft-storage",
+  "name": "@aletheia-data/strapi-provider-upload-nft-storage",
   "version": "0.0.1",
   "description": "strapi-provider-upload-nft-storage",
-  "author": {
-    "name": "aletheiadata@gmail.com"
-  },
+  "author": "aletheiadata@gmail.com",
   "dependencies": {
     "ipfs": "^0.42.1",
     "nft.storage": "^3.3.0"
   },
   "directories": {
-    "lib": "./lib"
+    "lib": "lib"
   },
   "license": "MIT",
   "main": "./lib",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aletheia-Data/strapi-provider-upload-nft-storage.git"
+  },
+  "keywords": [
+    "utility"
+  ],
+  "bugs": {
+    "url": "https://github.com/Aletheia-Data/strapi-provider-upload-nft-storage/issues"
+  },
+  "homepage": "https://github.com/Aletheia-Data/strapi-provider-upload-nft-storage#readme"
 }

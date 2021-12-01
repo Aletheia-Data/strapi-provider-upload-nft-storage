@@ -4,7 +4,6 @@
   "description": "strapi-provider-upload-nft-storage",
   "author": "aletheiadata@gmail.com",
   "dependencies": {
-    "ipfs": "^0.42.1",
     "nft.storage": "^3.3.0"
   },
   "directories": {

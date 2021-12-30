@@ -1,5 +1,11 @@
 # strapi-provider-upload-nft-storage
 
+## Pre-requisite
+
+You'll need to sign up on https://nft.storage and register an API KEY to get started
+
+https://nft.storage/#docs
+
 ## Configurations
 
 Your configuration is passed down to the provider.

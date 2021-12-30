@@ -1,5 +1,5 @@
 {
-  "name": "@aletheia-data/strapi-provider-upload-nft-storage",
+  "name": "strapi-provider-upload-nft-storage",
   "version": "0.1.0",
   "description": "strapi-provider-upload-nft-storage",
   "author": "aletheiadata@gmail.com",
